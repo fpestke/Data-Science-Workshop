@@ -6,7 +6,7 @@ and that can be used as a good starting point for own projects.
 
 | Topic | Notebookfile |
 :---|:---
-| Python - Introduction | [Basic Python Concepts](./Basic Python Concepts.ipynb) |
+| Python - Introduction | [Basic Python Concepts](./Basic%20Python%20Concepts.ipynb) |
 | Introduction to Numpys | [Numpys](./Numpys.ipynb) |
 | Introduction to Pandas and Graphical Representation | [Pandas and Graphical Representation](./Pandas and Graphical Representation.ipynb) |
 | Hints on Data Preprocessing | [Data Preprocessing](./Data Preprocessing.ipynb) |
